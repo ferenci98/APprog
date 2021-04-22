@@ -1,0 +1,7 @@
+﻿  JG33R1.cpp
+C:\Users\36203\Desktop\APprog\JG33R1\JG33R1\JG33R1.cpp(44,35): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=uchar
+          ]
+  JG33R1.vcxproj -> C:\Users\36203\Desktop\APprog\JG33R1\x64\Debug\JG33R1.exe
